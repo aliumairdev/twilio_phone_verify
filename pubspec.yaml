@@ -1,6 +1,6 @@
 name: twilio_phone_verify
-description: A new Flutter plugin project.
-version: 0.0.1
+description: A Package that helps in verifying phone numbers and email addresses using Twilio.
+version: 1.0.0
 homepage: https://github.com/aliumairdev/twilio_phone_verify.git
 
 environment:
