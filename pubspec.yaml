@@ -1,7 +1,7 @@
 name: twilio_phone_verify
 description: A new Flutter plugin project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/aliumairdev/twilio_phone_verify.git
 
 environment:
   sdk: '>=3.1.2 <4.0.0'
